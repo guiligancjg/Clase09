@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Clase09:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Clase09_jar</output-path>
+    <root id="archive" name="Clase09.jar">
+      <element id="module-output" name="Clase09" />
+      <element id="module-test-output" name="Clase09" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
